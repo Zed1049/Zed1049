@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Zed1049
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...everything related to IT
-- 💞️ I’m looking to collaborate on ...something as soon as I am ready and able to
+- 💞️ I’m looking to collaborate on ...something
 - 📫 How to reach me ...however you like
 
 <!---
