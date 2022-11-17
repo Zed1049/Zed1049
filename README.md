@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Zed1049
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...everything related to IT
+- 👀 I’m interested in ...Linux, FOSS, coding
+- 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...something
-- 📫 How to reach me ...however you like
+- 📫 How to reach me ...a message
 
 <!---
 Zed1049/Zed1049 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
